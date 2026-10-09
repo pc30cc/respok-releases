@@ -1,0 +1,9 @@
+    <item>
+      <title>RESPOK 1.1.13</title>
+      <pubDate>Fri, 09 Oct 2026 22:31:51 +0000</pubDate>
+      <sparkle:version>113</sparkle:version>
+      <sparkle:shortVersionString>1.1.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>RESPOK for Mac 1.1.13</description>
+      <enclosure url="https://raw.githubusercontent.com/pc30cc/respok-releases/main/mac/releases/1.1.13/RESPOK-1.1.13.zip" type="application/octet-stream" sparkle:edSignature="VX8yCf7hNMaWDpL8PToRsEJDsXj24m9u66PkbTQghdYOm9+W2/6TfD5zF+ILCqlNcICUiPTn9H6cwR9tPdEDAQ==" length="28401931" />
+    </item>
