@@ -1,0 +1,9 @@
+    <item>
+      <title>RESPOK 2.8.2433</title>
+      <pubDate>Thu, 22 Oct 2026 11:18:34 +0000</pubDate>
+      <sparkle:version>2433</sparkle:version>
+      <sparkle:shortVersionString>2.8.2433</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>RESPOK for Mac 2.8.2433</description>
+      <enclosure url="https://raw.githubusercontent.com/pc30cc/respok-releases/main/mac/releases/2.8.2433/RESPOK-2.8.2433.zip" type="application/octet-stream" sparkle:edSignature="Twg/nw6TNsHAB8l/xcfbMY43e1EgtsWH/Ii/Fi3s7OKihJcac1VMeP26frodSwJKA/lYR4fs7ZQQjDaeofg+Ag==" length="28583623" />
+    </item>
