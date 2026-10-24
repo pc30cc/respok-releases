@@ -4,6 +4,15 @@
     <title>RESPOK for Mac</title>
     <link>https://raw.githubusercontent.com/pc30cc/respok-releases/main/mac/appcast.xml</link>
     <item>
+      <title>RESPOK 2.8.2440</title>
+      <pubDate>Sat, 24 Oct 2026 09:58:28 +0000</pubDate>
+      <sparkle:version>2440</sparkle:version>
+      <sparkle:shortVersionString>2.8.2440</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>RESPOK for Mac 2.8.2440</description>
+      <enclosure url="https://raw.githubusercontent.com/pc30cc/respok-releases/main/mac/releases/2.8.2440/RESPOK-2.8.2440.zip" type="application/octet-stream" sparkle:edSignature="FYsQo8hmPGMo9SL/myvc9ewCez4Ufja75tefbjzP9R0Nuph1byBtdjfMhvJJKKWgFOQr2TuImL6A54eh/cCfDQ==" length="28618933" />
+    </item>
+    <item>
       <title>RESPOK 2.8.2433</title>
       <pubDate>Thu, 22 Oct 2026 11:18:34 +0000</pubDate>
       <sparkle:version>2433</sparkle:version>
